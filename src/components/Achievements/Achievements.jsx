@@ -42,7 +42,7 @@ function Achievements() {
 					btn="textButton"
 					btnText="Show info"
 					btnOnClick={() => openDialog({
-						text: 'To lock an achievement, complete a streak of the required number of days in any of your habits.'
+						text: 'To lock a achievement, complete a streak of the required number of days in any of your habits.'
 					})}
 				/>
 
